@@ -1,1 +1,1 @@
-g++ *.c* -o main
+g++ *.c* -o execGrupo6
