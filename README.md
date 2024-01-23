@@ -22,13 +22,13 @@ Este projeto foi desenvolvido como parte de um trabalho acadêmico na disciplina
 Para compilar o programa, utilize o seguinte comando:
 
 ```bash
-g++ *.c* -o main
+g++ *.c* -o execGrupo6
 ```
 
 Após compilar o programa, utilize o seguinte comando para a execução:
 
 ```bash
-./main "nome-instancia" <0, 1 ou 2> <alfa> <numIteracoes>
+./execGrupo6 "nome-instancia" <0, 1 ou 2> <alfa> <numIteracoes>
 ```
 
 Onde o nome da instância deve constar na pasta Instancias. Para executar o Algoritmo Guloso, o primeiro parâmetro deve ser 0; para o Algoritmo Guloso Randomizado, deve ser 1; e para o Algoritmo Guloso Randomizado Reativo, deve ser 2. Os valores de alfa devem estar entre [0, 1], sendo 0 na execução do Algoritmo Guloso e 1 para o Reativo.
