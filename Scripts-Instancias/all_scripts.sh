@@ -1,0 +1,10 @@
+./script_A-n34-k5.sh
+./script_A-n48-k7.sh
+./script_B-n34-k5.sh
+./script_B-n50-k8.sh
+./script_Golden_1.sh
+./script_Golden_17.sh
+./script_M-n101-k10.sh
+./script_M-n151-k12.sh
+./script_X-n101-k25.sh
+./script_X-n280-k17.sh
